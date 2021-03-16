@@ -8,7 +8,7 @@ Setup/Installation Requirements
  Follow this link https://festusmutie.github.io/Favoriteband/ to access the website.
 
 Known Bugs
-This website is not responsive.
+*This website is not responsive.
 
 Technologies Used
 *HTML
