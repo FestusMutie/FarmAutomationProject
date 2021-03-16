@@ -16,7 +16,7 @@ Technologies Used
 *Git
 
 Support and contact details
-Incase you need further assistance you can reach the developer via this email mutiefestus@gmail.com.
+*Incase you need further assistance you can reach the developer via this email mutiefestus@gmail.com.
 
 License
 Copyright(c)2021 mutiefestus84
