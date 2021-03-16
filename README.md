@@ -1,5 +1,5 @@
 ###FARM AUTOMATION SYSTEM
-This is a website for automating farm production processes by computing the rate of milk production and sales in a farm,12 March,2021
+This is a website for automating farm production processes by computing the rate of milk production and sales in a  diary farm,12 March,2021
 By Festus Mutie
 ###Description
 This is a website for automating farm production processes by computing the rate of milk production and sales in a farm.This system calculates the profits and automatically sends reports for daily,weekly and yearly ouput from sheds A,B,C and D
