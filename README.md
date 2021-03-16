@@ -5,7 +5,7 @@ By Festus Mutie
 *This is a website for automating farm production processes by computing the rate of milk production and sales in a farm.This system calculates the profits and automatically sends reports for daily,weekly and yearly ouput from sheds A,B,C and D to the farm owner.
 
 Setup/Installation Requirements
- Follow this link https://festusmutie.github.io/Favoriteband/ to access the website.
+ Follow this link https://festusmutie.github.io/FarmAutomationProject/ to access the website.
 
 Known Bugs
 *This website is not responsive.
